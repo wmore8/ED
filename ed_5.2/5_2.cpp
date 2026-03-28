@@ -1,7 +1,7 @@
  
 // Autor/a: Washington Morocho Lema
 // email: wmorocho@ucm.es
-// Nombre del problema: Teclado estropeado
+// Nombre del problema: Eliminar los elementos decrecientes de una lista enlazada doble
 
 #include <iostream>
 #include <fstream>
